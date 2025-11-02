@@ -76,8 +76,9 @@
 
 ### ⚡ Aesthetic Vibe  
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY5NjY3NmE4NjY1YzQyNjBkZmYzNTg1NzQ0MTI1YTAzOTExOTQ5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wvQIqJyNBOCjK/giphy.gif" width="450" />
+  <img src="https://media2.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="450" />
 </p>
+
 
 ---
 
